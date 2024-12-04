@@ -1,0 +1,20 @@
+.aboutmain{
+    height:63vh;
+}
+.doctHead{
+    color:  #106e90;
+}
+.doctor{
+    width: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+  .doctor{
+    width: 67%;
+  }
+ .second{
+  /* background-color: red; */
+  margin-left:10px;
+ }
+ 
+}

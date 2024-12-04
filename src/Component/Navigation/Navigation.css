@@ -1,0 +1,45 @@
+.firstimg {
+    width: 60vw;
+    height: 60vh;
+    margin-top: 25px;
+}
+
+.phone {
+    width: 23px;
+    height: 23px;
+}
+
+.text-color {
+    color: rgb(6, 165, 6);
+    font-weight: 500;
+}
+
+.btn-color {
+    background-color: rgb(40, 202, 40);
+    color: black;
+    border-radius: 23px;
+
+}
+.main{
+    /* background-color: #FF6F61; */
+    /* background-color:#1976D2; */
+    background-color:#6D28D9;
+}
+.submain{
+    background-color: #F3F4F6;
+    color:#1F2937;
+}
+.btn-custom{
+    background-color: #E11D48;
+    color:#FFFFFF;
+}
+.btn-custom:hover{
+    background-color: #a80629;
+
+}
+@media only screen and (max-width: 600px) {
+
+    .firstimg {
+        width: 100%;
+    }
+}

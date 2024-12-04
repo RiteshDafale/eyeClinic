@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+
+  .secondfooter{
+    display: flex;
+    justify-content: flex-start !important;
+  }
+  .thirdfooter{
+   float:left !important;
+    display: flex;
+    justify-content: flex-start !important;
+  }
+}
